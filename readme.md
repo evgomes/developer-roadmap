@@ -2,12 +2,8 @@
 
 > Roadmap to becoming a web developer in 2018
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
-
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
-
 ## Disclaimer
-> The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+> This roadmap was originally created with the intent of guiding developers through the hard and slow process of becoming a good software developer, showing paths that they can follow to learn what they need to know to be good professionals. I forked this repository to structure my own study plan based on the roadmaps presented here and to adapt it to my reality structuring the content according to what I want and what I have to learn.
 
 ## 🚀 Introduction
 
@@ -25,29 +21,141 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![](./images/devops.png)
 
-## 🚦 Wrap Up
+## ☑ Personal Study Plan
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+> Here is my personal study plan based on the above roadmaps, ordered by the subjects I have to study and which subjects I already have studied. Some subjects I already have a good knowledge, but I'm placing it here to review the important concepts.
 
-## ☑ TODO
+## Common topics 
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+### Version control
 
-## 👬 Contribution
+- [ ] Learn Git
+  - [ ] git config
+  - [ ] git add
+  - [ ] git commit
+  - [ ] git push
+  - [ ] git status
+  - [ ] git remote
+  - [ ] git checkout
+  - [ ] git branch
+  - [ ] git pull
+  - [ ] git diff
+  - [ ] git tag
+  - [ ] git fetch
+  - [ ] git reset
+  - [ ] git grep
+  - [ ] git merge
+  - [ ] git rebase
+- [ ] Learn Github workflow
+  - [ ] Creating and deleting repositories
+  - [ ] Managing repositories
+  - [ ] Creating and managing branchs
+  - [ ] Opening pull requests
+  - [ ] Discussing and reviewing code
+  - [ ] Mergind and deploying code
 
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.		
+### Operating system management
+  - [ ] Linux Basics
+    - [ ] Directories structure
+    - [ ] Common file extensions
+    - [ ] Permission system
+    - [ ] Packing and unpacking files
+    - [ ] Learn terminal
+    - [ ] Learn text manipulation tools
+      - [ ] Vim
+      - [ ] awk
+      - [ ] sed
+      - [ ] grep
+      - [ ] sort
+      - [ ] uniq
+      - [ ] cat
+      - [ ] cut
+      - [ ] echo
+      - [ ] fmt
+      - [ ] tr
+      - [ ] nl
+      - [ ] egrep
+      - [ ] fgrep
+      - [ ] wc
+    - Learn process monitoring
+      - [ ] ps
+      - [ ] top
+      - [ ] htop
+      - [ ] atop
+      - [ ] isof
+    - SSH
+  - [ ] Windows
+    - [ ] Powershell basics
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+### Protocols
+  - [ ] HTTP / HTTPS
+  - [ ] FTP / SFTP
 
-## Sponsored By
+## Frontend roadmap
+  - [ ] CSS
+    - [ ] SASS
+  - [ ] JavaScript
+    - [ ] Syntax
+    - [ ] Basic concepts
+      - [ ] Hoisting
+      - [ ] Event bubbling
+      - [ ] Prototype
+    - [ ] Manipulating the DOM
+    - [ ] ES6
+    -  [ ] Advanced concepts
+       - [ ] Scope and call / apply
+       - [ ] Reflection
+       - [ ] Parsing and generating code
+       - [ ] Garbage collection
+       - [ ] Performance optimization techniques
+       - [ ] Security issues
+    - [ ] Common APIs
+      - [ ] Geolocation
+      - [ ] Local storage, session storage, local database
+      - [ ] Cache
+      - [ ] Canvas
+      - [ ] Service workers
+      - [ ] Notifications
+      - [ ] File API
+    - [ ] CORS
+    - [ ] Object oriented programming concepts
+      - [ ] Common patterns and architecture
+    - [ ] Functional programming concepts
+      - [ ] Common patterns and architecture
+    - [ ] Common frameworks and libraries
+      - [ ] jQuery
+      - [ ] Angular
+      - [ ] React
+      - [ ] VueJS
+      - [ ] Redux
+      - [ ] RxJS
+      - [ ] Moment.js
+      - [ ] D3.js
+      - [ ] Chart.js
+    - [ ] Tooling / Development
+      - [ ] NodeJS
+        - [ ] NPM
+        - [ ] Node scripts and tasks
+        - [ ] Express.js
+      - [ ] Gulp
+      - [ ] Webpack
 
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
+## DevOps skills
+- [ ] OS Concepts
+    - [ ] Threads and Concurrency
+    - [ ] Sockets
+- [ ] Web Server
+    - [ ] Configure IIS
+    - [ ] Configure Apache
+    - [ ] Configure Nginx
+- [ ] Containers
+    - [ ] Docker
+        - [ ] Use Docker with a programming language
+    - [ ] CI / CD Tools
+      - [ ] Jenkins
+      - [ ] Travis CI
+
+> I will be adding new subjects as I finish to study previous topics and according to necessity.
 
 ## License
 

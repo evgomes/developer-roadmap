@@ -53,6 +53,7 @@
   - [ ] Opening pull requests
   - [ ] Discussing and reviewing code
   - [ ] Mergind and deploying code
+  - [ ] Reverting changes
 
 ### Operating system management
   - [ ] Linux Basics
@@ -77,13 +78,13 @@
       - [ ] egrep
       - [ ] fgrep
       - [ ] wc
-    - Learn process monitoring
+    - [ ] Learn process monitoring
       - [ ] ps
       - [ ] top
       - [ ] htop
       - [ ] atop
       - [ ] isof
-    - SSH
+    - [ ] SSH
   - [ ] Windows
     - [ ] Powershell basics
 

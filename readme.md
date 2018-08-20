@@ -85,6 +85,7 @@
       - [ ] atop
       - [ ] isof
     - [ ] SSH
+    - [ ] Shell script basics
   - [ ] Windows
     - [ ] Powershell basics
 
@@ -112,23 +113,26 @@
        - [ ] Security issues
     - [ ] Common APIs
       - [ ] Geolocation
-      - [ ] Local storage, session storage, local database
+      - [ ] Web storage
       - [ ] Cache
       - [ ] Canvas
-      - [ ] Service workers
-      - [ ] Notifications
+      - [ ] Web workers
       - [ ] File API
+      - [ ] Drag and Drop
     - [ ] CORS
     - [ ] Object oriented programming concepts
       - [ ] Common patterns and architecture
     - [ ] Functional programming concepts
       - [ ] Common patterns and architecture
+    - [ ] Architecture
+      - [ ] Redux
+      - [ ] Flux
+    - [ ] Testing
+      - [ ] Mocha
     - [ ] Common frameworks and libraries
       - [ ] jQuery
       - [ ] Angular
-      - [ ] React
-      - [ ] VueJS
-      - [ ] Redux
+        - [ ] Angular Universal (server-side rendering)
       - [ ] RxJS
       - [ ] Moment.js
       - [ ] D3.js
@@ -138,17 +142,73 @@
         - [ ] NPM
         - [ ] Node scripts and tasks
         - [ ] Express.js
+      - [ ] Yarn
       - [ ] Gulp
       - [ ] Webpack
+      - [ ] ES Lint
+
+## Backend roadmap
+- [ ] Data structures
+  - [ ] Arrays
+  - [ ] Lists
+  - [ ] Queues
+  - [ ] Stacks  
+  - [ ] Sets
+  - [ ] Graphs
+- [ ] Algorithms
+  - [ ] Sorting
+  - [ ] Search
+    - [ ] ElasticSearch
+- [ ] Regular expressions
+- [ ] Standards and best practices
+- [ ] Architecture
+  - [ ] DDD
+  - [ ] CQRS
+  - [ ] Event sourcing
+- [ ] Tests
+  - [ ] Unit tests
+  - [ ] Integration tests
+  - [ ] TDD
+  - [ ] BDD
+  - [ ] Calculate test coverage
+- [ ] Application types
+  - [ ] REST API
+  - [ ] Web application
+- [ ] Performance
+  - [ ] Caching strategies
+    - [ ] Memcached
+    - [ ] Redis
+  - [ ] Threading
+  - [ ] Optimization techniques
+- [ ] Authentication and Authorization
+  - [ ] OAuth
+  - [ ] Basic authentication
+  - [ ] JSON Web Token authentication
+  - [ ] OpenID
+- [ ] NoSQL
+  - [ ] MongoDB
+- [ ] Message brokers
+  - [ ] RabbitMQ
+  - [ ] Patterns and best practices
+- [ ] Web sockets
+- [ ] Web scraping
+- [ ] Logging
+  - [ ] Analytics tools 
+- [ ] Docker integration
+- [ ] GraphQL
 
 ## DevOps skills
 - [ ] OS Concepts
     - [ ] Threads and Concurrency
     - [ ] Sockets
+    - [ ] Process management
+    - [ ] Memory / storage
 - [ ] Web Server
     - [ ] Configure IIS
     - [ ] Configure Apache
     - [ ] Configure Nginx
+    - [ ] Configure caching server
+    - [ ] Configure firewall
 - [ ] Containers
     - [ ] Docker
         - [ ] Use Docker with a programming language
@@ -160,4 +220,4 @@
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 

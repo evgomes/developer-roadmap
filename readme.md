@@ -30,21 +30,22 @@
 ### Version control
 
 - [ ] Learn Git
-  - [ ] git config
-  - [ ] git add
-  - [ ] git commit
-  - [ ] git push
-  - [ ] git status
-  - [ ] git remote
-  - [ ] git checkout
-  - [ ] git branch
-  - [ ] git pull
-  - [ ] git diff
+  - [x] git config
+  - [x] git init
+  - [x] git status
+  - [x] git add
+  - [x] git commit
+  - [x] git diff
+  - [x] git pull
+  - [x] git push
+  - [ ] git remote (in progress)
+  - [ ] git branch (in progress)
+  - [ ] git checkout (in progress)
   - [ ] git tag
   - [ ] git fetch
-  - [ ] git reset
+  - [ ] git reset (in progress)
   - [ ] git grep
-  - [ ] git merge
+  - [ ] git merge (in progress)
   - [ ] git rebase
 - [ ] Learn Github workflow
   - [ ] Creating and deleting repositories
@@ -63,7 +64,7 @@
     - [ ] Packing and unpacking files
     - [ ] Learn terminal
     - [ ] Learn text manipulation tools
-      - [ ] Vim
+       - [ ] Vim
       - [ ] awk
       - [ ] sed
       - [ ] grep

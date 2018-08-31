@@ -38,15 +38,16 @@
   - [x] git diff
   - [x] git pull
   - [x] git push
-  - [ ] git remote (in progress)
-  - [ ] git branch (in progress)
-  - [ ] git checkout (in progress)
+  - [x] git remote
+  - [x] git branch
+  - [x] git checkout
   - [ ] git tag
   - [ ] git fetch
   - [ ] git reset (in progress)
   - [ ] git grep
-  - [ ] git merge (in progress)
+  - [x] git merge
   - [ ] git rebase
+  - [ ] git stash
 - [ ] Learn Github workflow
   - [ ] Creating and deleting repositories
   - [ ] Managing repositories
@@ -87,12 +88,11 @@
       - [ ] isof
     - [ ] SSH
     - [ ] Shell script basics
-  - [ ] Windows
-    - [ ] Powershell basics
 
 ### Protocols
   - [ ] HTTP / HTTPS
   - [ ] FTP / SFTP
+  - [ ] TCP
 
 ## Frontend roadmap
   - [ ] CSS
@@ -134,6 +134,8 @@
       - [ ] jQuery
       - [ ] Angular
         - [ ] Angular Universal (server-side rendering)
+      - [ ] React.js
+	- [ ] JSX
       - [ ] RxJS
       - [ ] Moment.js
       - [ ] D3.js
@@ -153,7 +155,7 @@
   - [ ] Arrays
   - [ ] Lists
   - [ ] Queues
-  - [ ] Stacks  
+  - [ ] Stacks
   - [ ] Sets
   - [ ] Graphs
 - [ ] Algorithms

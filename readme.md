@@ -41,9 +41,10 @@
   - [x] git remote
   - [x] git branch
   - [x] git checkout
-  - [ ] git tag
+  - [x] git tag
+    - [x] git show 
   - [ ] git fetch
-  - [ ] git reset (in progress)
+  - [x] git reset
   - [ ] git grep
   - [x] git merge
   - [ ] git rebase

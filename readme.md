@@ -29,7 +29,7 @@
 
 ### Version control
 
-- [ ] Learn Git
+- [x] Learn Git
   - [x] git config
   - [x] git init
   - [x] git status
@@ -43,12 +43,11 @@
   - [x] git checkout
   - [x] git tag
     - [x] git show 
-  - [ ] git fetch
+  - [x] git fetch
   - [x] git reset
-  - [ ] git grep
   - [x] git merge
-  - [ ] git rebase
-  - [ ] git stash
+  - [x] git rebase
+  - [x] git stash
 - [ ] Learn Github workflow
   - [ ] Creating and deleting repositories
   - [ ] Managing repositories

@@ -90,25 +90,25 @@
     - [ ] Shell script basics
 
 ### Protocols
-  - [ ] HTTP / HTTPS
-  - [ ] FTP / SFTP
+  - [ ] HTTP - HTTPS
+  - [ ] FTP - SFTP
   - [ ] TCP
 
 ## Frontend roadmap
   - [ ] CSS
     - [ ] SASS
-  - [ ] JavaScript
-    - [ ] Syntax
+  - [ ] JavaScript (doing, studying throught freeCodeCamp)
+    - [x] Syntax
     - [ ] Basic concepts
       - [ ] Hoisting
       - [ ] Event bubbling
       - [ ] Prototype
     - [ ] Manipulating the DOM
-    - [ ] ES6
+    - [x] ES6
     -  [ ] Advanced concepts
        - [ ] Scope and call / apply
        - [ ] Reflection
-       - [ ] Parsing and generating code
+       - [ ] Parsing tags and code generation
        - [ ] Garbage collection
        - [ ] Performance optimization techniques
        - [ ] Security issues
@@ -132,14 +132,11 @@
       - [ ] Mocha
     - [ ] Common frameworks and libraries
       - [ ] jQuery
-      - [ ] Angular
-        - [ ] Angular Universal (server-side rendering)
       - [ ] React.js
 	- [ ] JSX
       - [ ] RxJS
       - [ ] Moment.js
       - [ ] D3.js
-      - [ ] Chart.js
     - [ ] Tooling / Development
       - [ ] NodeJS
         - [ ] NPM
@@ -161,16 +158,17 @@
 - [ ] Algorithms
   - [ ] Sorting
   - [ ] Search
-    - [ ] ElasticSearch
-- [ ] Regular expressions
+    - [ ] Binary search
+    - [ ] ElasticSearch (tool)
+- [x] Regular expressions
 - [ ] Standards and best practices
 - [ ] Architecture
   - [ ] DDD
   - [ ] CQRS
   - [ ] Event sourcing
 - [ ] Tests
-  - [ ] Unit tests
-  - [ ] Integration tests
+  - [ ] Unit testing
+  - [ ] Integration testing
   - [ ] TDD
   - [ ] BDD
   - [ ] Calculate test coverage

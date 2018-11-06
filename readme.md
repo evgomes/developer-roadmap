@@ -97,16 +97,16 @@
 ## Frontend roadmap
   - [ ] CSS
     - [ ] SASS
-  - [ ] JavaScript (doing, studying throught freeCodeCamp)
+  - [ ] JavaScript (doing, studying throught freeCodeCamp and javascript.info)
     - [x] Syntax
     - [ ] Basic concepts
       - [ ] Hoisting
       - [ ] Event bubbling
-      - [ ] Prototype
-    - [ ] Manipulating the DOM
+      - [x] Prototype
+    - [x] Manipulating the DOM
     - [x] ES6
     -  [ ] Advanced concepts
-       - [ ] Scope and call / apply
+       - [x] Scope and call / apply
        - [ ] Reflection
        - [ ] Parsing tags and code generation
        - [ ] Garbage collection
@@ -121,10 +121,10 @@
       - [ ] File API
       - [ ] Drag and Drop
     - [ ] CORS
-    - [ ] Object oriented programming concepts
-      - [ ] Common patterns and architecture
-    - [ ] Functional programming concepts
-      - [ ] Common patterns and architecture
+    - [x] Object oriented programming concepts
+      - [x] Common patterns and architecture
+    - [x] Functional programming concepts
+      - [x] Common patterns and architecture
     - [ ] Architecture
       - [ ] Redux
       - [ ] Flux
@@ -139,7 +139,7 @@
       - [ ] D3.js
     - [ ] Tooling / Development
       - [ ] NodeJS
-        - [ ] NPM
+        - [x] NPM
         - [ ] Node scripts and tasks
         - [ ] Express.js
       - [ ] Yarn

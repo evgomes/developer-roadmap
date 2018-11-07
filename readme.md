@@ -97,11 +97,11 @@
 ## Frontend roadmap
   - [ ] CSS
     - [ ] SASS
-  - [ ] JavaScript (doing, studying throught freeCodeCamp and javascript.info)
+  - [ ] JavaScript (doing, studying throught freeCodeCamp, javascript.info and other resources such as Medium posts)
     - [x] Syntax
-    - [ ] Basic concepts
-      - [ ] Hoisting
-      - [ ] Event bubbling
+    - [x] Basic concepts
+      - [x] Hoisting
+      - [x] Event bubbling
       - [x] Prototype
     - [x] Manipulating the DOM
     - [x] ES6

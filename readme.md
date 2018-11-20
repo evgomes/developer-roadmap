@@ -58,7 +58,7 @@
   - [ ] Reverting changes
 
 ### Operating system management
-  - [ ] Linux Basics
+  - [ ] Linux Basics (already know some commands and concepts, but I need to study it in a deeper level)
     - [ ] Directories structure
     - [ ] Common file extensions
     - [ ] Permission system
@@ -90,14 +90,15 @@
     - [ ] Shell script basics
 
 ### Protocols
-  - [ ] HTTP - HTTPS
-  - [ ] FTP - SFTP
+  - [ ] HTTP - HTTPS (I already know it, but I want to study it in a deeper level)
+  - [ ] FTP - SFTP (same as above)
   - [ ] TCP
 
 ## Frontend roadmap
-  - [ ] CSS
+  - [x] CSS
     - [ ] SASS
-  - [ ] JavaScript (doing, studying throught freeCodeCamp, javascript.info and other resources such as Medium posts)
+    - [x] Bootstrap
+  - [ ] JavaScript (I'm studying throught freeCodeCamp, javascript.info and other resources such as Medium posts)
     - [x] Syntax
     - [x] Basic concepts
       - [x] Hoisting
@@ -107,20 +108,20 @@
     - [x] ES6
     -  [ ] Advanced concepts
        - [x] Scope and call / apply
-       - [ ] Reflection
-       - [ ] Parsing tags and code generation
-       - [ ] Garbage collection
+       - [x] Proxies and Reflection
+       - [ ] Parsing tags and code generation (I'm studying...)
+       - [x] Garbage collection
        - [ ] Performance optimization techniques
        - [ ] Security issues
     - [ ] Common APIs
-      - [ ] Geolocation
-      - [ ] Web storage
+      - [ ] Geolocation (I already know something, but I will review it)
+      - [ ] Web storage (same as above)
       - [ ] Cache
       - [ ] Canvas
       - [ ] Web workers
-      - [ ] File API
-      - [ ] Drag and Drop
-    - [ ] CORS
+      - [ ] File API (I already worked with it, but I need to study in a deeper level)
+      - [ ] Drag and Drop (same as above)
+    - [ ] CORS (I need to review it)
     - [x] Object oriented programming concepts
       - [x] Common patterns and architecture
     - [x] Functional programming concepts
@@ -131,14 +132,14 @@
     - [ ] Testing
       - [ ] Mocha
     - [ ] Common frameworks and libraries
-      - [ ] jQuery
+      - [ ] jQuery (I have to review)
       - [ ] React.js
 	- [ ] JSX
       - [ ] RxJS
       - [ ] Moment.js
       - [ ] D3.js
     - [ ] Tooling / Development
-      - [ ] NodeJS
+      - [ ] NodeJS (I'm studying it throught an Udemy course)
         - [x] NPM
         - [ ] Node scripts and tasks
         - [ ] Express.js

@@ -49,21 +49,21 @@
   - [x] git rebase
   - [x] git stash
 - [ ] Learn Github workflow
-  - [ ] Creating and deleting repositories
-  - [ ] Managing repositories
-  - [ ] Creating and managing branchs
-  - [ ] Opening pull requests
+  - [x] Creating and deleting repositories
+  - [x] Managing repositories
+  - [x] Creating and managing branchs
+  - [x] Opening pull requests
   - [ ] Discussing and reviewing code
   - [ ] Mergind and deploying code
-  - [ ] Reverting changes
+  - [x] Reverting changes
 
 ### Operating system management
   - [ ] Linux Basics (already know some commands and concepts, but I need to study it in a deeper level)
     - [ ] Directories structure
     - [ ] Common file extensions
     - [ ] Permission system
-    - [ ] Packing and unpacking files
-    - [ ] Learn terminal
+    - [x] Packing and unpacking files
+    - [x] Learn terminal
     - [ ] Learn text manipulation tools
        - [ ] Vim
       - [ ] awk
@@ -73,7 +73,7 @@
       - [ ] uniq
       - [ ] cat
       - [ ] cut
-      - [ ] echo
+      - [x] echo
       - [ ] fmt
       - [ ] tr
       - [ ] nl
@@ -81,7 +81,7 @@
       - [ ] fgrep
       - [ ] wc
     - [ ] Learn process monitoring
-      - [ ] ps
+      - [x] ps
       - [ ] top
       - [ ] htop
       - [ ] atop
@@ -90,15 +90,15 @@
     - [ ] Shell script basics
 
 ### Protocols
-  - [ ] HTTP - HTTPS (I already know it, but I want to study it in a deeper level)
-  - [ ] FTP - SFTP (same as above)
-  - [ ] TCP
+  - [x] HTTP - HTTPS
+  - [x] FTP - SFTP
+  - [x] TCP
 
 ## Frontend roadmap
   - [x] CSS
-    - [ ] SASS
+    - [x] SASS
     - [x] Bootstrap
-  - [ ] JavaScript (I'm studying throught freeCodeCamp, javascript.info and other resources such as Medium posts)
+  - [x] JavaScript
     - [x] Syntax
     - [x] Basic concepts
       - [x] Hoisting
@@ -115,37 +115,34 @@
        - [ ] Security issues
     - [ ] Common APIs
       - [ ] Geolocation (I already know something, but I will review it)
-      - [ ] Web storage (same as above)
+      - [x] Web storage
       - [ ] Cache
-      - [ ] Canvas
+      - [ ] Canvas (I'm studying)
       - [ ] Web workers
       - [ ] File API (I already worked with it, but I need to study in a deeper level)
       - [ ] Drag and Drop (same as above)
-    - [ ] CORS (I need to review it)
+    - [ ] CORS (Reviewing)
     - [x] Object oriented programming concepts
       - [x] Common patterns and architecture
     - [x] Functional programming concepts
       - [x] Common patterns and architecture
     - [ ] Architecture
-      - [ ] Redux
-      - [ ] Flux
-    - [ ] Testing
-      - [ ] Mocha
+      - [ ] Redux / Flux (I'm studying)
+    - [x] Testing
+      - [x] Jest
     - [ ] Common frameworks and libraries
-      - [ ] jQuery (I have to review)
-      - [ ] React.js
-	- [ ] JSX
+      - [x] jQuery
+      - [ ] React.js (I'm studying)
       - [ ] RxJS
-      - [ ] Moment.js
+      - [ ] Moment.js (I need to review)
       - [ ] D3.js
     - [ ] Tooling / Development
-      - [ ] NodeJS (I'm studying it throught an Udemy course)
+      - [x] NodeJS
         - [x] NPM
-        - [ ] Node scripts and tasks
-        - [ ] Express.js
-      - [ ] Yarn
-      - [ ] Gulp
-      - [ ] Webpack
+        - [x] Node scripts and tasks
+        - [x] Express.js
+      - [x] Yarn
+      - [x] Webpack
       - [ ] ES Lint
 
 ## Backend roadmap
@@ -160,22 +157,21 @@
   - [ ] Sorting
   - [ ] Search
     - [ ] Binary search
-    - [ ] ElasticSearch (tool)
 - [x] Regular expressions
 - [ ] Standards and best practices
-- [ ] Architecture
+- [ ] Architecture (I need to review all concepts)
   - [ ] DDD
   - [ ] CQRS
   - [ ] Event sourcing
 - [ ] Tests
-  - [ ] Unit testing
-  - [ ] Integration testing
-  - [ ] TDD
+  - [x] Unit testing
+  - [x] Integration testing
+  - [x] TDD
   - [ ] BDD
   - [ ] Calculate test coverage
-- [ ] Application types
-  - [ ] REST API
-  - [ ] Web application
+- [x] Application types
+  - [x] REST API
+  - [x] Web application
 - [ ] Performance
   - [ ] Caching strategies
     - [ ] Memcached
@@ -185,10 +181,10 @@
 - [ ] Authentication and Authorization
   - [ ] OAuth
   - [ ] Basic authentication
-  - [ ] JSON Web Token authentication
+  - [x] JSON Web Token authentication
   - [ ] OpenID
-- [ ] NoSQL
-  - [ ] MongoDB
+- [x] NoSQL
+  - [x] MongoDB
 - [ ] Message brokers
   - [ ] RabbitMQ
   - [ ] Patterns and best practices

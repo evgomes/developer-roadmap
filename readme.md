@@ -48,46 +48,14 @@
   - [x] git merge
   - [x] git rebase
   - [x] git stash
-- [ ] Learn Github workflow
+- [x] Learn Github workflow
   - [x] Creating and deleting repositories
   - [x] Managing repositories
   - [x] Creating and managing branchs
   - [x] Opening pull requests
-  - [ ] Discussing and reviewing code
-  - [ ] Mergind and deploying code
+  - [x] Discussing and reviewing code
+  - [x] Mergind and deploying code
   - [x] Reverting changes
-
-### Operating system management
-  - [ ] Linux Basics (already know some commands and concepts, but I need to study it in a deeper level)
-    - [ ] Directories structure
-    - [ ] Common file extensions
-    - [ ] Permission system
-    - [x] Packing and unpacking files
-    - [x] Learn terminal
-    - [ ] Learn text manipulation tools
-       - [ ] Vim
-      - [ ] awk
-      - [ ] sed
-      - [ ] grep
-      - [ ] sort
-      - [ ] uniq
-      - [ ] cat
-      - [ ] cut
-      - [x] echo
-      - [ ] fmt
-      - [ ] tr
-      - [ ] nl
-      - [ ] egrep
-      - [ ] fgrep
-      - [ ] wc
-    - [ ] Learn process monitoring
-      - [x] ps
-      - [ ] top
-      - [ ] htop
-      - [ ] atop
-      - [ ] isof
-    - [ ] SSH
-    - [ ] Shell script basics
 
 ### Protocols
   - [x] HTTP - HTTPS
@@ -106,63 +74,68 @@
       - [x] Prototype
     - [x] Manipulating the DOM
     - [x] ES6
-    -  [ ] Advanced concepts
+    -  [x] Advanced concepts
        - [x] Scope and call / apply
        - [x] Proxies and Reflection
-       - [ ] Parsing tags and code generation (I'm studying...)
        - [x] Garbage collection
-       - [ ] Performance optimization techniques
-       - [ ] Security issues
     - [ ] Common APIs
-      - [ ] Geolocation (I already know something, but I will review it)
+      - [x] Geolocation
       - [x] Web storage
       - [ ] Cache
-      - [ ] Canvas (I'm studying)
+      - [ ] Canvas
       - [ ] Web workers
-      - [ ] File API (I already worked with it, but I need to study in a deeper level)
-      - [ ] Drag and Drop (same as above)
-    - [ ] CORS (Reviewing)
+      - [x] File API
+      - [ ] Drag and Drop
+    - [x] CORS (Reviewing)
     - [x] Object oriented programming concepts
       - [x] Common patterns and architecture
     - [x] Functional programming concepts
       - [x] Common patterns and architecture
-    - [ ] Architecture
-      - [ ] Redux / Flux (I'm studying)
+    - [x] Architecture
+      - [x] Redux / Flux
     - [x] Testing
       - [x] Jest
-    - [ ] Common frameworks and libraries
+    - [x] Common frameworks and libraries
       - [x] jQuery
-      - [ ] React.js (I'm studying)
-      - [ ] RxJS
-      - [ ] Moment.js (I need to review)
-      - [ ] D3.js
-    - [ ] Tooling / Development
+      - [x] React.js
+      - [x] Angular 2+
+      - [x] Moment.js
+      - [x] Lodash
+      - [x] Babel.js
+    - [x] Tooling / Development
       - [x] NodeJS
         - [x] NPM
         - [x] Node scripts and tasks
         - [x] Express.js
       - [x] Yarn
       - [x] Webpack
-      - [ ] ES Lint
+      - [x] ES Lint
 
 ## Backend roadmap
 - [ ] Data structures
-  - [ ] Arrays
-  - [ ] Lists
-  - [ ] Queues
-  - [ ] Stacks
-  - [ ] Sets
-  - [ ] Graphs
-- [ ] Algorithms
-  - [ ] Sorting
-  - [ ] Search
-    - [ ] Binary search
+  - [x] Arrays
+  - [x] Lists
+  - [x] Queues
+  - [x] Stacks
+  - [x] Sets
+  - [ ] Graphs (I started studying this, I still need to implement some algorithm to find the smallest paths in a graph)
+- [x] Algorithms
+  - [x] Sorting
+  - [x] Search
+    - [x] Binary search
 - [x] Regular expressions
-- [ ] Standards and best practices
-- [ ] Architecture (I need to review all concepts)
-  - [ ] DDD
-  - [ ] CQRS
+- [x] Standards and best practices
+- [ ] Architecture and concepts
+  - [x] DDD
+  - [x] CQRS
   - [ ] Event sourcing
+- [x] Distributed Application development and concepts
+  - [x] Source and Round Robing algorithms  
+  - [x] Distributed caching strategies
+  - [x] How to work with session management in distributed applications
+    - [x] Cookies usage 
+  - [x] File system management and FTP usage
+  - [x] Healthchecks
 - [ ] Tests
   - [x] Unit testing
   - [x] Integration testing
@@ -172,47 +145,53 @@
 - [x] Application types
   - [x] REST API
   - [x] Web application
-- [ ] Performance
-  - [ ] Caching strategies
-    - [ ] Memcached
-    - [ ] Redis
-  - [ ] Threading
-  - [ ] Optimization techniques
+- [x] Performance
+  - [x] Caching strategies
+    - [x] Memory cache
+    - [x] Disk cache
+    - [x] Distributed cache
+        - [x] Redis
+  - [x] Threading
 - [ ] Authentication and Authorization
   - [ ] OAuth
-  - [ ] Basic authentication
+  - [x] Basic authentication
   - [x] JSON Web Token authentication
   - [ ] OpenID
 - [x] NoSQL
   - [x] MongoDB
 - [ ] Message brokers
   - [ ] RabbitMQ
-  - [ ] Patterns and best practices
 - [ ] Web sockets
 - [ ] Web scraping
-- [ ] Logging
-  - [ ] Analytics tools 
-- [ ] Docker integration
-- [ ] GraphQL
+- [x] Logging
+  - [x] File system log
+  - [x] Email log
+  - [x] Database log
+  - [x] Logging libraries
+- [x] GraphQL (just the basics)
+- [x] Data analytics
+  - [x] Google Analytics integration  
+- [x] Databases
+  - [x] SQL Server
+  - [x] MySQL
+  - [x] PostgreSQL
+  - [x] MongoDB
 
 ## DevOps skills
 - [ ] OS Concepts
-    - [ ] Threads and Concurrency
+    - [x] Threads and Concurrency
     - [ ] Sockets
-    - [ ] Process management
-    - [ ] Memory / storage
+    - [x] Process management
+    - [x] Memory / storage
 - [ ] Web Server
-    - [ ] Configure IIS
-    - [ ] Configure Apache
+    - [x] Configure IIS (I learned the basics)
     - [ ] Configure Nginx
-    - [ ] Configure caching server
-    - [ ] Configure firewall
 - [ ] Containers
-    - [ ] Docker
-        - [ ] Use Docker with a programming language
-    - [ ] CI / CD Tools
-      - [ ] Jenkins
-      - [ ] Travis CI
+    - [ ] Docker (I'm still learning)
+        - [x] Use Docker with a programming language
+- [x] CI / CD Tools
+    - [x] Jenkins
+    - [x] Travis CI
 
 > I will be adding new subjects as I finish to study previous topics and according to necessity.
 
